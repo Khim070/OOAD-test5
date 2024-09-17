@@ -1,0 +1,11 @@
+C:\Users\palav\source\repos\ProductPricing\library\bin\Debug\net8.0\Productlib.deps.json
+C:\Users\palav\source\repos\ProductPricing\library\bin\Debug\net8.0\Productlib.dll
+C:\Users\palav\source\repos\ProductPricing\library\bin\Debug\net8.0\Productlib.pdb
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\Productlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\Productlib.AssemblyInfoInputs.cache
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\Productlib.AssemblyInfo.cs
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\Productlib.csproj.CoreCompileInputs.cache
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\Productlib.dll
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\refint\Productlib.dll
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\Productlib.pdb
+C:\Users\palav\source\repos\ProductPricing\library\obj\Debug\net8.0\ref\Productlib.dll
